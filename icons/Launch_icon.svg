@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.00170666667 0 512 0 512 512 0.00170666667 512"></polygon>
+    </defs>
+    <g id="Launch-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Version1@Ryan" transform="translate(-51.000000, -247.000000)">
+            <g id="Group-18" transform="translate(51.000000, 247.000000)">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M147.679573,0 L364.315307,0 C415.67744,0 434.28864,5.34186667 453.070507,15.3856 C471.84384,25.4208 486.572373,40.1578667 496.616107,58.9312 C506.651307,77.7045333 512.001707,96.3328 512.001707,147.677867 L512.001707,364.3136 C512.001707,415.675733 506.651307,434.295467 496.616107,453.0688 C486.572373,471.842133 471.84384,486.5792 453.070507,496.6144 C434.28864,506.6496 415.67744,512 364.315307,512 L147.679573,512 C96.3259733,512 77.70624,506.6496 58.9329067,496.6144 C40.1595733,486.5792 25.4225067,471.842133 15.3873067,453.0688 C5.34357333,434.295467 0.00170666667,415.675733 0.00170666667,364.3136 L0.00170666667,147.677867 C0.00170666667,96.3328 5.34357333,77.7045333 15.3873067,58.9312 C25.4225067,40.1578667 40.1595733,25.4208 58.9329067,15.3856 C77.70624,5.34186667 96.3259733,0 147.679573,0" id="Fill-1" fill="#2A303A" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M254.541417,93.6228571 C343.412505,93.6228571 415.451429,165.67033 415.451429,254.541417 C415.451429,343.403956 343.412505,415.451429 254.541417,415.451429 C165.67033,415.451429 93.6228571,343.403956 93.6228571,254.541417 C93.6228571,165.67033 165.67033,93.6228571 254.541417,93.6228571 Z" id="Stroke-4" stroke="#F2F47D" stroke-width="5"></path>
+                <path d="M298.422857,155.062857 L155.062857,298.422857" id="Stroke-6" stroke="#F2F47D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M327.68,184.32 L184.32,327.68" id="Stroke-8" stroke="#F2F47D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M359.862857,216.502857 L216.502857,359.862857" id="Stroke-10" stroke="#F2F47D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M365.714286,298.422857 L222.354286,155.062857" id="Stroke-12" stroke="#F2F47D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M336.457143,327.68 L193.097143,184.32" id="Stroke-14" stroke="#F2F47D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M304.274286,359.862857 L160.914286,216.502857" id="Stroke-16" stroke="#F2F47D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
