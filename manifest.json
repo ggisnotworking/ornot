@@ -3,7 +3,7 @@
   "name": "Freedom Hi | 自由篩",
   "icons": [
     {
-      "src": "apple-touch-icon.png",
+      "src": "/apple-touch-icon.png",
       "sizes": "178x178",
       "type": "image/png"
     }
