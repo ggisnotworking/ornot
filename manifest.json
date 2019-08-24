@@ -23,6 +23,7 @@
       "type": "image/png"
     }
   ],
+  "scopes": "/",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#ffb332",
