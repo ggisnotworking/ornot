@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://ggisnotworking.github.io/ornot/static/css/main.68918c7e.chunk.css",
+    "main.css": "https://ggisnotworking.github.io/ornot/static/css/main.13c34a87.chunk.css",
     "main.js": "https://ggisnotworking.github.io/ornot/static/js/main.a73b0e10.chunk.js",
     "main.js.map": "https://ggisnotworking.github.io/ornot/static/js/main.a73b0e10.chunk.js.map",
     "runtime~main.js": "https://ggisnotworking.github.io/ornot/static/js/runtime~main.7aff8048.js",
@@ -9,10 +9,10 @@
     "static/js/2.49f2c0ec.chunk.js": "https://ggisnotworking.github.io/ornot/static/js/2.49f2c0ec.chunk.js",
     "static/js/2.49f2c0ec.chunk.js.map": "https://ggisnotworking.github.io/ornot/static/js/2.49f2c0ec.chunk.js.map",
     "index.html": "https://ggisnotworking.github.io/ornot/index.html",
-    "precache-manifest.37d6deaeb67c58bb7f9107058d1cdddb.js": "https://ggisnotworking.github.io/ornot/precache-manifest.37d6deaeb67c58bb7f9107058d1cdddb.js",
+    "precache-manifest.7198cdaa5d68dfc9018abfb69c3e0baa.js": "https://ggisnotworking.github.io/ornot/precache-manifest.7198cdaa5d68dfc9018abfb69c3e0baa.js",
     "service-worker.js": "https://ggisnotworking.github.io/ornot/service-worker.js",
     "static/css/2.2238321b.chunk.css.map": "https://ggisnotworking.github.io/ornot/static/css/2.2238321b.chunk.css.map",
-    "static/css/main.68918c7e.chunk.css.map": "https://ggisnotworking.github.io/ornot/static/css/main.68918c7e.chunk.css.map",
+    "static/css/main.13c34a87.chunk.css.map": "https://ggisnotworking.github.io/ornot/static/css/main.13c34a87.chunk.css.map",
     "static/media/blue.png": "https://ggisnotworking.github.io/ornot/static/media/blue.3aa93a7c.png",
     "static/media/fontello.css": "https://ggisnotworking.github.io/ornot/static/media/fontello.e8271083.ttf",
     "static/media/image.png": "https://ggisnotworking.github.io/ornot/static/media/image.cf78a1d4.png"
