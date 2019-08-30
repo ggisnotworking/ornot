@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7678c9b72fc7f8ddd861d0f64ff8edf0",
+    "revision": "bf79be1e1b0ab901eabde9651bc2ec86",
     "url": "https://ggisnotworking.github.io/ornot/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://ggisnotworking.github.io/ornot/static/css/2.ec7000dc.chunk.css"
   },
   {
-    "revision": "7c702445351c82161240",
+    "revision": "bcd110292fc9ae0e3fc7",
     "url": "https://ggisnotworking.github.io/ornot/static/css/main.20240c8c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://ggisnotworking.github.io/ornot/static/js/2.3eb347a9.chunk.js"
   },
   {
-    "revision": "7c702445351c82161240",
-    "url": "https://ggisnotworking.github.io/ornot/static/js/main.64835cbb.chunk.js"
+    "revision": "bcd110292fc9ae0e3fc7",
+    "url": "https://ggisnotworking.github.io/ornot/static/js/main.07bb4f49.chunk.js"
   },
   {
     "revision": "b4cbaafc1ee7a982ce8e",
